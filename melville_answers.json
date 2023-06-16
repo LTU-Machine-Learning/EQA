@@ -1,0 +1,966 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Why was he reconciled to Bartleby?",
+              "id": 920995,
+              "answers": [
+                {
+                  "answer_id": 813019,
+                  "document_id": 1453527,
+                  "question_id": 920995,
+                  "text": "His steadiness, his freedom from all dissipation, his incessant industry (except when he chose to throw himself into a standing revery behind his screen), his great stillness, his unalterableness of demeanor under all circumstances, made him a valuable acquisition.",
+                  "answer_start": 65,
+                  "answer_end": 330,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "As days passed on, I became considerably reconciled to Bartleby. His steadiness, his freedom from all dissipation, his incessant industry (except when he chose to throw himself into a standing revery behind his screen), his great stillness, his unalterableness of demeanor under all circumstances, made him a valuable acquisition. One prime thing was this,�he was always there; �first in the morning, continually through the day, and the last at night. I had a singular confidence in his honesty. I felt my most precious papers perfectly safe in his hands. Sometimes to be sure I could not, for the very soul of me, avoid falling into sudden spasmodic passions with him. For it was exceeding difficult to bear in mind all the time those strange peculiarities, privileges, and unheard of exemptions, forming the tacit stipulations on Bartleby's part under which he remained in my office. Now and then, in the eagerness of dispatching pressing business, I would inadvertently summon Bartleby, in a short, rapid tone, to put his finger, say, on the incipient tie of a bit of red tape with which I was about compressing some papers. Of course, from behind the screen the usual answer, \"I prefer not to,\" was sure to come; and then, how could a human creature with the common infirmities of our nature, refrain from bitterly exclaiming upon such perverseness�such unreasonableness. However, every added repulse of this sort which I received only tended to lessen the probability of my repeating the inadvertence.\n",
+          "document_id": 1453527
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What play is performed?",
+              "id": 921031,
+              "answers": [
+                {
+                  "answer_id": 814052,
+                  "document_id": 1453717,
+                  "question_id": 921031,
+                  "text": "THE OLD WAGON PAID OFF",
+                  "answer_start": 763,
+                  "answer_end": 785,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Accordingly, on the very next morning after the indulgence had been granted by the Captain, the following written placard, presenting a broadside of staring capitals, was found tacked against the main-mast on the gun-deck. It was as if a Drury-Lane bill had been posted upon the London Monument. CAPE HORN THEATRE. * * * * * * * * Grand Celebration of the Fourth of July. DAY PERFORMANCE. UNCOMMON ATTRACTION. THE OLD WAGON PAID OFF! JACK CHASE. . . . PERCY ROYAL-MAST. STARS OF THE FIRST MAGNITUDE. For this time only. THE TRUE YANKEE SAILOR. The managers of the Cape Horn Theatre beg leave to inform the inhabitants of the Pacific and Southern Oceans that, on the afternoon of the Fourth of July, 184—, they will have the honour to present the admired drama of THE OLD WAGON PAID OFF!",
+          "document_id": 1453717
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What authors does he read?",
+              "id": 920998,
+              "answers": [
+                {
+                  "answer_id": 813115,
+                  "document_id": 1453530,
+                  "question_id": 920998,
+                  "text": "Edwards on the Will,\" and \"Priestly on Necessity.",
+                  "answer_start": 81,
+                  "answer_end": 130,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Some days now passed, during which, at leisure intervals I looked a little into \"Edwards on the Will,\" and \"Priestly on Necessity.\" Under the circumstances, those books induced a salutary feeling. Gradually I slid into the persuasion that these troubles of mine touching the scrivener, had been all predestinated from eternity, and Bartleby was billeted upon me for some mysterious purpose of an all-wise Providence, which it was not for a mere mortal like me to fathom. Yes, Bartleby, stay there behind your screen, thought I; I shall persecute you no more; you are harmless and noiseless as any of these old chairs; in short, I never feel so private as when I know you are here. At last I see it, I feel it; I penetrate to the predestinated purpose of my life. I am content. Others may have loftier parts to enact; but my mission in this world, Bartleby, is to furnish you with office-room for such period as you may see fit to remain.\n",
+          "document_id": 1453530
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is he taken?",
+              "id": 921000,
+              "answers": [
+                {
+                  "answer_id": 813223,
+                  "document_id": 1453532,
+                  "question_id": 921000,
+                  "text": "to the Tombs",
+                  "answer_start": 194,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "When again I entered my office, lo, a note from the landlord lay upon the desk. I opened it with trembling hands. It informed me that the writer had sent to the police, and had Bartleby removed to the Tombs as a vagrant. Moreover, since I knew more about him than any one else, he wished me to appear at that place, and make a suitable statement of the facts. These tidings had a conflicting effect upon me. At first I was indignant; but at last almost approved. The landlord's energetic, summary disposition had led him to adopt a procedure which I do not think I would have decided upon myself; and yet as a last resort, under such peculiar circumstances, it seemed the only plan. As I afterwards learned, the poor scrivener, when told that he must be conducted to the Tombs, offered not the slightest obstacle, but in his pale unmoving way, silently acquiesced.\n",
+          "document_id": 1453532
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who does he kill?",
+              "id": 921003,
+              "answers": [
+                {
+                  "answer_id": 813526,
+                  "document_id": 1453535,
+                  "question_id": 921003,
+                  "text": "the old priest",
+                  "answer_start": 267,
+                  "answer_end": 281,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The knife before dangling in Samoa's ear was now in his hand. Jarl cried out for us to regain the boat, several of the Islanders making a rush for it. No time to think. All passed quicker than it can be said. They closed in upon us, to push us from the canoe: Rudely the old priest flung me from his side, menacing me with his dagger, the sharp spine of a fish. A thrust and a threat! Ere I knew it, my cutlass made a quick lunge. A curse from the priest's mouth; red blood from his side; he tottered, stared about him, and fell over like a brown hemlock into the sea. A yell of maledictions rose on the air. A wild cry was heard from the tent. Making a dead breach among the crowd, we now dashed side by side for the boat. Springing into it, we found Jarl battling with two Islanders; while the rest were still howling upon the dais. Rage and grief had almost disabled them.\n",
+          "document_id": 1453535
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who disappears?",
+              "id": 921004,
+              "answers": [
+                {
+                  "answer_id": 813719,
+                  "document_id": 1453536,
+                  "question_id": 921004,
+                  "text": "Yillah",
+                  "answer_start": 76,
+                  "answer_end": 82,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The knife before dangling in Samoa's ear was now in his haNoon came; but no Yillah. When Media averred she was no longer in Odo. Whither she was gone, or how, he knew not; nor could any imagine. At this juncture, there chanced to arrive certain messengers from abroad; who, presuming that all was well with Taji, came with renewed invitations to visit various pleasant places round about. Among these, came Queen Hautia's heralds, with their Iris flag, once more bringing flowers. But they came and went unheeded. Setting out to return, these envoys were accompanied by numerous followers of Media, dispatched to the neighboring islands, to seek out the missing Yillah. But three days passed; and, one by one, they all returned; and stood before me silently. For a time I raved. Then, falling into outer repose, lived for a space in moods and reveries, with eyes that knew no closing, one glance forever fixed.nd. Jarl cried out for us to regain the boat, several of the Islanders making a rush for it. No time to think. All passed quicker than it can be said. They closed in upon us, to push us from the canoe: Rudely the old priest flung me from his side, menacing me with his dagger, the sharp spine of a fish. A thrust and a threat! Ere I knew it, my cutlass made a quick lunge. A curse from the priest's mouth; red blood from his side; he tottered, stared about him, and fell over like a brown hemlock into the sea. A yell of maledictions rose on the air. A wild cry was heard from the tent. Making a dead breach among the crowd, we now dashed side by side for the boat. Springing into it, we found Jarl battling with two Islanders; while the rest were still howling upon the dais. Rage and grief had almost disabled them.\n",
+          "document_id": 1453536
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who do they leave behind?",
+              "id": 921006,
+              "answers": [
+                {
+                  "answer_id": 813791,
+                  "document_id": 1453538,
+                  "question_id": 921006,
+                  "text": "Jarl",
+                  "answer_start": 184,
+                  "answer_end": 188,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "But fearing anew, lest after our departure, the men of Amma might stir up against me the people of the isle, I determined to yield to the earnest solicitations of Borabolla, and leave Jarl behind, for a remembrance of Taji; if necessary, to vindicate his name. Apprised hereof, my follower was loth to acquiesce. His guiltless spirit feared not the strangers: less selfish considerations prevailed. He was willing to remain on the island for a time, but not without me. Yet, setting forth my reasons; and assuring him, that our tour would not be long in completing, when we would not fail to return, previous to sailing for Odo, he at last, but reluctantly, assented.\n",
+          "document_id": 1453538
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Why does he go on a whaling voyage?",
+              "id": 921007,
+              "answers": [
+                {
+                  "answer_id": 813805,
+                  "document_id": 1453539,
+                  "question_id": 921007,
+                  "text": "the overwhelming idea of the great whale himself",
+                  "answer_start": 688,
+                  "answer_end": 736,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Though I cannot tell why it was exactly that those stage managers, the Fates, put me down for this shabby part of a whaling voyage, when others were set down for magnificent parts in high tragedies, and short and easy parts in genteel comedies, and jolly parts in farces�though I cannot tell why this was exactly; yet, now that I recall all the circumstances, I think I can see a little into the springs and motives which being cunningly presented to me under various disguises, induced me to set about performing the part I did, besides cajoling me into the delusion that it was a choice resulting from my own unbiased freewill and discriminating judgment. Chief among these motives was the overwhelming idea of the great whale himself. Such a portentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless perils of the whale; these, with all the attending marvels of a thousand Patagonian sights and sounds, helped to sway me to my wish. With other men, perhaps, such things would not have been inducements; but as for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. Not ignoring what is good, I am quick to perceive a horror, and could still be social with it�would they let me�since it is but well to be on friendly terms with all the inmates of the place one lodges in.\n",
+          "document_id": 1453539
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is he when he loses his leg?",
+              "id": 921009,
+              "answers": [
+                {
+                  "answer_id": 813896,
+                  "document_id": 1453541,
+                  "question_id": 921009,
+                  "text": "off Japan",
+                  "answer_start": 402,
+                  "answer_end": 411,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "So powerfully did the whole grim aspect of Ahab affect me, and the livid brand which streaked it, that for the first few moments I hardly noted that not a little of this overbearing grimness was owing to the barbaric white leg upon which he partly stood. It had previously come to me that this ivory leg had at sea been fashioned from the polished bone of the sperm whale's jaw. \"Aye, he was dismasted off Japan,\" said the old Gay-Head Indian once; \"but like his dismasted craft, he shipped another mast without coming home for it. He has a quiver of 'em.\" I was struck with the singular posture he maintained. Upon each side of the Pequod's quarter deck, and pretty close to the mizzen shrouds, there was an auger hole, bored about half an inch or so, into the plank. His bone leg steadied in that hole; one arm elevated, and holding by a shroud; Captain Ahab stood erect, looking straight out beyond the ship's ever-pitching prow. There was an infinity of firmest fortitude, a determinate, unsurrenderable wilfulness, in the fixed and fearless, forward dedication of that glance. Not a word he spoke; nor did his officers say aught to him; though by all their minutest gestures and expressions, they plainly showed the uneasy, if not painful, consciousness of being under a troubled master-eye.\n",
+          "document_id": 1453541
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does the color white mean?",
+              "id": 921011,
+              "answers": [
+                {
+                  "answer_id": 813989,
+                  "document_id": 1453543,
+                  "question_id": 921011,
+                  "text": " the visible absence of colour; and at the same time the concrete of all colours",
+                  "answer_start": 282,
+                  "answer_end": 362,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Is it that by its indefiniteness it shadows forth the heartless voids and immensities of the universe, and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the milky way? Or is it, that as in essence whiteness is not so much a colour as the visible absence of colour; and at the same time the concrete of all colours; is it for these reasons that there is such a dumb blankness, full of meaning, in a wide landscape of snows�a colourless, all-colour of atheism from which we shrink? And when we consider that other theory of the natural philosophers, that all other earthly hues�every stately or lovely emblazoning�the sweet tinges of sunset skies and woods; yea, and the gilded velvets of butterflies, and the butterfly cheeks of young girls; all these are but subtile deceits, not actually inherent in substances, but only laid on from without; so that all deified Nature absolutely paints like the harlot, whose allurements cover nothing but the charnel-house within; and when we proceed further, and consider that the mystical cosmetic which produces every one of her hues, the great principle of light, for ever remains white or colourless in itself, and if operating without medium upon matter, would touch all objects, even tulips and roses, with its own blank tinge �pondering all this, the palsied universe lies before us a leper; and like wilful travellers in Lapland, who refuse to wear coloured and colouring glasses upon their eyes, so the wretched infidel gazes himself blind at the monumental white shroud that wraps all the prospect around him. And of all these things the Albino whale was the symbol. Wonder ye then at the fiery hunt?\n",
+          "document_id": 1453543
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is behind the mask?",
+              "id": 921010,
+              "answers": [
+                {
+                  "answer_id": 813921,
+                  "document_id": 1453542,
+                  "question_id": 921010,
+                  "text": "the mouldings of its features",
+                  "answer_start": 212,
+                  "answer_end": 241,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\"Hark ye yet again�the little lower layer. All visible objects, man, are but as pasteboard masks. But in each event�in the living act, the undoubted deed� there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. Sometimes I think there's naught beyond. But 'tis enough. He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him. Talk not to me of blasphemy, man; I'd strike the sun if it insulted me. For could the sun do that, then could I do the other; since there is ever a sort of fair play herein, jealousy presiding over all creations. But not my master, man, is even that fair play. Who's over me? Truth hath no confines. Take off thine eye! more intolerable than fiends' glarings is a doltish stare! So, so; thou reddenest and palest; my heat has melted thee to anger-glow. But look ye, Starbuck, what is said in heat, that thing unsays itself. There are men from whom warm words are small indignity. I meant not to incense thee. Let it go. Look! see yonder Turkish cheeks of spotted tawn�living, breathing pictures painted by the sun. The Pagan leopards�the unrecking and unworshipping things, that live; and seek, and give no reasons for the torrid life they feel! The crew, man, the crew! Are they not one and all with Ahab, in this matter of the whale?\n",
+          "document_id": 1453542
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the whale compared to?",
+              "id": 921012,
+              "answers": [
+                {
+                  "answer_id": 813990,
+                  "document_id": 1453544,
+                  "question_id": 921012,
+                  "text": "the white bull Jupiter",
+                  "answer_start": 94,
+                  "answer_end": 116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A gentle joyousness�a mighty mildness of repose in swiftness, invested the gliding whale. Not the white bull Jupiter swimming away with ravished Europa clinging to his graceful horns; his lovely, leering eyes sideways intent upon the maid; with smooth bewitching fleetness, rippling straight for the nuptial bower in Crete; not Jove, not that great majesty Supreme! did surpass the glorified White Whale as he so divinely swam. On each soft side�coincident with the parted swell, that but once leaving him, then flowed so wide away�on each bright side, the whale shed off enticings. No wonder there had been some among the hunters who namelessly transported and allured by all this serenity, had ventured to assail it; but had fatally found that quietude but the vesture of tornadoes. Yet calm, enticing calm, oh, whale! thou glidest on, to all who for the first time eye thee, no matter how many in that same way thou may'st have bejuggled and destroyed before.\n",
+          "document_id": 1453544
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How is he saved?",
+              "id": 921013,
+              "answers": [
+                {
+                  "answer_id": 813991,
+                  "document_id": 1453545,
+                  "question_id": 921013,
+                  "text": "the coffin life-buoy",
+                  "answer_start": 946,
+                  "answer_end": 966,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The drama's done. Why then here does any one step forth?�Because one did survive the wreck. It so chanced, that after the Parsee's disappearance, I was he whom the Fates ordained to take the place of Ahab's bowsman, when that bowsman assumed the vacant post; the same, who, when on the last day the three men were tossed from out of the rocking boat, was dropped astern. So, floating on the margin of the ensuing scene, and in full sight of it, when the halfspent suction of the sunk ship reached me, I was then, but slowly, drawn towards the closing vortex. When I reached it, it had subsided to a creamy pool. Round and round, then, and ever contracting towards the button-like black bubble at the axis of that slowly wheeling circle, like another Ixion I did revolve. Till, gaining that vital centre, the black bubble upward burst; and now, liberated by reason of its cunning spring, and, owing to its great buoyancy, rising with great force, the coffin life-buoy shot lengthwise from the sea, fell over, and floated by my side. Buoyed up by that coffin, for almost one whole day and night, I floated on a soft and dirgelike main. The unharming sharks, they glided by as if with padlocks on their mouths; the savage sea-hawks sailed with sheathed beaks. On the second day, a sail drew near, nearer, and picked me up at last. It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan.\n",
+          "document_id": 1453545
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who bullies him?",
+              "id": 921016,
+              "answers": [
+                {
+                  "answer_id": 813994,
+                  "document_id": 1453548,
+                  "question_id": 921016,
+                  "text": "the sailors",
+                  "answer_start": 86,
+                  "answer_end": 97,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "This kind of talking brought the tears into my eyes, for it was so true and real, and the sailors who spoke it seemed so false-hearted and insincere; but for all that, in spite of the sickness at my heart, it made me mad, and stung me to the quick, that they should speak of me as a poor trembling coward, who could never be brought to endure the hardships of a sailor's life; for I felt myself trembling, and knew that I was but a coward then, well enough, without their telling me of it. And they did not say I was cowardly, because they perceived it in me, but because they merely supposed I must be, judging, no doubt, from their own secret thoughts about themselves; for I felt sure that the suicide frightened them very badly. And at last, being provoked to desperation by their taunts, I told them so to their faces; but I might better have kept silent; for they now all united to abuse me. They asked me what business I, a boy like me, had to go to sea, and take the bread out of the mouth of honest sailors, and fill a good seaman's place; and asked me whether I ever dreamed of becoming a captain, since I was a gentleman with white hands; and if I ever should be, they would like nothing better than to ship aboard my vessel and stir up a mutiny. And one of them, whose name was Jackson, of whom I shall have a good deal more to say by-and-by, said, I had better steer clear of him ever after, for if ever I crossed his path, or got into his way, he would be the death of me, and if ever I stumbled about in the rigging near him, he would make nothing of pitching me overboard; and that he swore too, with an oath. At first, all this nearly stunned me, it was so unforeseen; and then I could not believe that they meant what they said, or that they could be so cruel and black-hearted. But how could I help seeing, that the men who could thus talk to a poor, friendless boy, on the very first night of his voyage to sea, must be capable of almost any enormity. I loathed, detested, and hated them with all that was left of my bursting heart and soul, and I thought myself the most forlorn and miserable wretch that ever breathed. May I never be a man, thought I, if to be a boy is to be such a wretch. And I wailed and wept, and my heart cracked within me, but all the time I defied them through my teeth, and dared them to do their worst.\n",
+          "document_id": 1453548
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who takes him to London?",
+              "id": 921018,
+              "answers": [
+                {
+                  "answer_id": 813996,
+                  "document_id": 1453550,
+                  "question_id": 921018,
+                  "text": "Harry",
+                  "answer_start": 65,
+                  "answer_end": 70,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "It might have been a week after our glimpse of Lord Lovely, that Harry, who had been expecting a letter, which, he told me, might possibly alter his plans, one afternoon came bounding on board the ship, and sprang down the hatchway into the between-decks, where, in perfect solitude, I was engaged picking oakum; at which business the mate had set me, for want of any thing better. \"Hey for London, Wellingborough!\" he cried. \"Off tomorrow! first train�be there the same night�come! I have money to rig you all out�drop that hangman's stuff there, and away! Pah! how it smells here! Come; up you jump!\"\n",
+          "document_id": 1453550
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does he see in Launcelott’s-Hey?",
+              "id": 921017,
+              "answers": [
+                {
+                  "answer_id": 813995,
+                  "document_id": 1453549,
+                  "question_id": 921017,
+                  "text": "the figure of what had been a woman. Her blue arms folded to her livid bosom two shrunken things like children, that leaned toward her, one on each side",
+                  "answer_start": 619,
+                  "answer_end": 771,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Once, passing through this place, I heard a feeble wail, which seemed to come out of the earth. It was but a strip of crooked side-walk where I stood; the dingy wall was on every side, converting the mid-day into twilight; and not a soul was in sight. I started, and could almost have run, when I heard that dismal sound. It seemed the low, hopeless, endless wail of some one forever lost. At last I advanced to an opening which communicated downward with deep tiers of cellars beneath a crumbling old warehouse; and there, some fifteen feet below the walk, crouching in nameless squalor, with her head bowed over, was the figure of what had been a woman. Her blue arms folded to her livid bosom two shrunken things like children, that leaned toward her, one on each side. At first, I knew not whether they were alive or dead. They made no sign; they did not move or stir; but from the vault came that soul-sickening wail.\n",
+          "document_id": 1453549
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who lives in the dwelling-house?",
+              "id": 921022,
+              "answers": [
+                {
+                  "answer_id": 814155,
+                  "document_id": 1453554,
+                  "question_id": 921022,
+                  "text": "Kory-Kory",
+                  "answer_start": 294,
+                  "answer_end": 303,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "But now to sketch the inmates; and here I claim for my tried servitor and faithful valet Kory-Kory the precedence of a first description. As his character will be gradually unfolded in the course of my narrative, I shall for the present content myself with delineating his personal appearance. Kory-Kory, though the most devoted and best natured serving-man in the world, was, alas! a hideous object to look upon. He was some twenty-five years of age, and about six feet in height, robust and well made, and of the most extraordinary aspect. His head was carefully shaven with the exception of two circular spots, about the size of a dollar, near the top of the cranium, where the hair, permitted to grow of an amazing length, was twisted up in two prominent knots, that gave him the appearance of being decorated with a pair of horns. His beard, plucked out by the root from every other part of his face, was suffered to droop in hairy pendants, two of which garnished his under lip, and an equal number hung from the extremity of his chin.\n",
+          "document_id": 1453554
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is at the silent spot?",
+              "id": 921024,
+              "answers": [
+                {
+                  "answer_id": 814162,
+                  "document_id": 1453556,
+                  "question_id": 921024,
+                  "text": "the dead chief's effigy",
+                  "answer_start": 68,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "On all sides as you approached this silent spot you caught sight of the dead chief's effigy, seated in the stern of a canoe, which was raised on a light frame a few inches above the level of the pi-pi. The canoe was about seven feet in length; of a rich, dark coloured wood, handsomely carved and adorned in many places with variegated bindings of stained sinnate, into which were ingeniously wrought a number of sparkling seashells, and a belt of the same shells ran all round it. The body of the figure�of whatever material it might have been made�was effectually concealed in a heavy robe of brown tappa, revealing; only the hands and head; the latter skilfully carved in wood, and surmounted by a superb arch of plumes. These plumes, in the subdued and gentle gales which found access to this sequestered spot, were never for one moment at rest, but kept nodding and waving over the chief's brow. The long leaves of the palmetto drooped over the eaves, and through them you saw the warrior holding his paddle with both hands in the act of rowing, leaning forward and inclining his head, as if eager to hurry on his voyage. Glaring at him forever, and face to face, was a polished human skull, which crowned the prow of the canoe. The spectral figurehead, reversed in its position, glancing backwards, seemed to mock the impatient attitude of the warrior.\n",
+          "document_id": 1453556
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens at the Ti?",
+              "id": 921023,
+              "answers": [
+                {
+                  "answer_id": 814160,
+                  "document_id": 1453555,
+                  "question_id": 921023,
+                  "text": "reposing upon the mats",
+                  "answer_start": 6,
+                  "answer_end": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I was reposing upon the mats, within the sacred building, in company with Mehevi and several other chiefs, when the announcement was first made. It sent a thrill of joy through my whole frame;�perhaps Toby was about to return. I rose at once to my feet, and my instinctive impulse was to hurry down to the beach, equally regardless of the distance that separated me from it, and of my disabled condition. As soon as Mehevi noticed the effect the intelligence had produced upon me, and the impatience I betrayed to reach the sea, his countenance assumed that inflexible rigidity of expression which had so awed me on the afternoon of our arrival at the house of Marheyo. As I was proceeding to leave the Ti, he laid his hand upon my shoulder, and said gravely, 'abo, abo' (wait, wait). Solely intent upon the one thought that occupied my mind, and heedless of his request, I was brushing past him, when suddenly he assumed a tone of authority, and told me to 'moee' (sit down). Though struck by the alteration in his demeanour, the excitement under which I laboured was too strong to permit me to obey the unexpected command, and I was still limping towards the edge of the pi-pi with Kory-Kory clinging to one arm in his efforts to restrain me, when the natives around started to their feet, ranged themselves along the open front of the building, while Mehevi looked at me scowlingly, and reiterated his commands still more sternly.\n",
+          "document_id": 1453555
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Why does he leave the island?",
+              "id": 921025,
+              "answers": [
+                {
+                  "answer_id": 814173,
+                  "document_id": 1453557,
+                  "question_id": 921025,
+                  "text": "an American sailor was detained by the savages",
+                  "answer_start": 400,
+                  "answer_end": 446,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The circumstances connected with my most unexpected escape may be very briefly stated. The captain of an Australian vessel, being in distress for men in these remote seas, had put into Nukuheva in order to recruit his ship's company; but not a single man was to be obtained; and the barque was about to get under weigh, when she was boarded by Karakoee, who informed the disappointed Englishman that an American sailor was detained by the savages in the neighbouring bay of Typee; and he offered, if supplied with suitable articles of traffic, to undertake his release. The Kanaka had gained his intelligence from Marnoo, to whom, after all, I was indebted for my escape. The proposition was acceded to; and Karakoee, taking with him five tabooed natives of Nukuheva, again repaired aboard the barque, which in a few hours sailed to that part of the island, and threw her main-top-sail aback right off the entrance to the Typee bay. The whale-boat, manned by the tabooed crew, pulled towards the head of the inlet, while the ship lay 'off and on' awaiting its return.\n",
+          "document_id": 1453557
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does he want to do to his jacket?",
+              "id": 921027,
+              "answers": [
+                {
+                  "answer_id": 813999,
+                  "document_id": 1453559,
+                  "question_id": 921027,
+                  "text": "render water-proof that white-jacket",
+                  "answer_start": 242,
+                  "answer_end": 278,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Next in rank comes the First or Senior Lieutenant, the chief executive officer. I have no reason to love the particular gentleman who filled that post aboard our frigate, for it was he who refused my petition for as much black paint as would render water-proof that white-jacket of mine. All my soakings and drenchings lie at his state-room door. I hardly think I shall ever forgive him; every twinge of the rheumatism, which I still occasionally feel, is directly referable to him. The Immortals have a reputation for clemency; and they may pardon him; but he must not dun me to be merciful. But my personal feelings toward the man shall not prevent me from here doing him justice. In most things he was an excellent seaman; prompt, loud, and to the point; and as such was well fitted for his station. The First Lieutenancy of a frigate demands a good disciplinarian, and, every way, an energetic man. By the captain he is held responsible for everything; by that magnate, indeed, he is supposed to be omnipresent; down in the hold, and up aloft, at one and the same time.\n",
+          "document_id": 1453559
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How does he fall?",
+              "id": 921030,
+              "answers": [
+                {
+                  "answer_id": 814012,
+                  "document_id": 1453562,
+                  "question_id": 921030,
+                  "text": "head-foremost",
+                  "answer_start": 632,
+                  "answer_end": 645,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Having reeved the line through all the inferior blocks, I went out with it to the end of the weather-top-gallant-yard-arm, and was in the act of leaning over and passing it through the suspended jewel-block there, when the ship gave a plunge in the sudden swells of the calm sea, and pitching me still further over the yard, threw the heavy skirts of my jacket right over my head, completely muffling me. Somehow I thought it was the sail that had flapped, and, under that impression, threw up my hands to drag it from my head, relying upon the sail itself to support me meanwhile. Just then the ship gave another sudden jerk, and, head-foremost, I pitched from the yard. I knew where I was, from the rush of the air by my ears, but all else was a nightmare. A bloody film was before my eyes, through which, ghost-like, passed and repassed my father, mother, and sisters. An utterable nausea oppressed me; I was conscious of gasping; there seemed no breath in my body. It was over one hundred feet that I fell�down, down, with lungs collapsed as in death.\n",
+          "document_id": 1453562
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who become his companions?",
+              "id": 921005,
+              "answers": [
+                {
+                  "answer_id": 813758,
+                  "document_id": 1453670,
+                  "question_id": 921005,
+                  "text": "The first was Mohi, or Braid-Beard, so called from the manner in which he wore that appendage, exceedingly long and gray. He was a venerable teller of stories and legends, one of the Keepers of the Chronicles of the Kings of Mardi. The second was Babbalanja, a man of a mystical aspect, habited in a voluminous robe. He was learned in Mardian lore; much given to quotations from ancient and obsolete authorities: the Ponderings of Old Bardianna: the Pandects of Alla-Malolla. Third and last, was Yoomy",
+                  "answer_start": 222,
+                  "answer_end": 723,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "One for ourselves, and a trio of companions whom he purposed introducing to my notice; the rest were reserved for attendants. Thanks to Media's taste and heedfulness, the strangers above mentioned proved truly acceptable. The first was Mohi, or Braid-Beard, so called from the manner in which he wore that appendage, exceedingly long and gray. He was a venerable teller of stories and legends, one of the Keepers of the Chronicles of the Kings of Mardi. The second was Babbalanja, a man of a mystical aspect, habited in a voluminous robe. He was learned in Mardian lore; much given to quotations from ancient and obsolete authorities: the Ponderings of Old Bardianna: the Pandects of Alla-Malolla. Third and last, was Yoomy, or the Warbler. A youthful, long-haired, blue-eyed minstrel; all fits and starts; at times, absent of mind, and wan of cheek; but always very neat and pretty in his apparel; wearing the most becoming of turbans, a Bird of Paradise feather its plume, and sporting the gayest of sashes. Most given was Yoomy to amorous melodies, and rondos, and roundelays, very witching to hear. But at times disdaining the oaten reed, like a clarion he burst forth with lusty lays of arms and battle; or, in mournful strains, sounded elegies for departed bards and heroes.\n",
+          "document_id": 1453670
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What happens to Miguel Saveda?",
+              "id": 921019,
+              "answers": [
+                {
+                  "answer_id": 813997,
+                  "document_id": 1453672,
+                  "question_id": 921019,
+                  "text": "burned",
+                  "answer_start": 558,
+                  "answer_end": 564,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "But what most astonished me, and seemed most incredible, was the infernal opinion of Jackson, that the man had been actually dead when brought on board the ship; and that knowingly, and merely for the sake of the month's advance, paid into his hand upon the strength of the bill he presented, the body-snatching crimp had knowingly shipped a corpse on board of the Highlander, under the pretense of its being a live body in a drunken trance. And I heard Jackson say, that he had known of such things having been done before. But that a really dead body ever burned in that manner, I can not even yet believe. But the sailors seemed familiar with such things; or at least with the stories of such things having happened to others. For me, who at that age had never so much as happened to hear of a case like this, of animal combustion, in the horrid mood that came over me, I almost thought the burning body was a premonition of the hell of the Calvinists, and that Miguel's earthly end was a foretaste of his eternal condemnation.\n",
+          "document_id": 1453672
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is fired out of the canon?",
+              "id": 921029,
+              "answers": [
+                {
+                  "answer_id": 814001,
+                  "document_id": 1453675,
+                  "question_id": 921029,
+                  "text": "a terrific report",
+                  "answer_start": 990,
+                  "answer_end": 1007,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The great guns of an armed ship have blocks of wood, called tompions, painted black, inserted in their muzzles, to keep out the spray of the sea. These tompions slip in and out very handily, like covers to butter firkins. By advice of a friend, Lemsford, alarmed for the fate of his box of poetry, had latterly made use of a particular gun on the main-deck, in the tube of which he thrust his manuscripts, by simply crawling partly out of the porthole, removing the tompion, inserting his papers, tightly rolled, and making all snug again. Breakfast over, he and I were reclining in the main-top—where, by permission of my noble master, Jack Chase, I had invited him—when, of a sudden, we heard a cannonading. It was our own ship. \"Ah!\" said a top-man, \"returning the shore salute they gave us yesterday.\" \"O Lord!\" cried Lemsford, \"my Songs of the Sirens!\" and he ran down the rigging to the batteries; but just as he touched the gun-deck, gun No. 20—his literary strong-box—went off with a terrific report.\n",
+          "document_id": 1453675
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What was rolled away under his desk?",
+              "id": 920997,
+              "answers": [
+                {
+                  "answer_id": 813094,
+                  "document_id": 1453529,
+                  "question_id": 920997,
+                  "text": "a blanket",
+                  "answer_start": 610,
+                  "answer_end": 619,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nevertheless, my mind was not pacified; and full of a restless curiosity, at last I returned to the door. Without hindrance I inserted my key, opened it, and entered. Bartleby was not to be seen. I looked round anxiously, peeped behind his screen; but it was very plain that he was gone. Upon more closely examining the place, I surmised that for an indefinite period Bartleby must have ate, dressed, and slept in my office, and that too without plate, mirror, or bed. The cushioned seat of a rickety old sofa in one corner bore the faint impress of a lean, reclining form. Rolled away under his desk, I found a blanket; under the empty grate, a blacking box and brush; on a chair, a tin basin, with soap and a ragged towel; in a newspaper a few crumbs of gingernuts and a morsel of cheese. Yes, thought I, it is evident enough that Bartleby has been making his home here, keeping bachelor's hall all by himself. Immediately then the thought came sweeping across me, What miserable friendlessness and loneliness are here revealed! His poverty is great; but his solitude, how horrible! Think of it. Of a Sunday, Wall-street is deserted as Petra; and every night of every day it is an emptiness. This building too, which of week-days hums with industry and life, at nightfall echoes with sheer vacancy, and all through Sunday is forlorn. And here Bartleby makes his home; sole spectator of a solitude which he has seen all populous�a sort of innocent and transformed Marius brooding among the ruins of Carthage!\n",
+          "document_id": 1453529
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is outside his office window?",
+              "id": 920999,
+              "answers": [
+                {
+                  "answer_id": 813163,
+                  "document_id": 1453531,
+                  "question_id": 920999,
+                  "text": "a lofty brick wall",
+                  "answer_start": 462,
+                  "answer_end": 480,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "My chambers were up stairs at No.�Wall-street. At one end they looked upon the white wall of the interior of a spacious sky-light shaft, penetrating the building from top to bottom. This view might have been considered rather tame than otherwise, deficient in what landscape painters call \"life.\" But if so, the view from the other end of my chambers offered, at least, a contrast, if nothing more. In that direction my windows commanded an unobstructed view of a lofty brick wall, black by age and everlasting shade; which wall required no spy-glass to bring out its lurking beauties, but for the benefit of all nearsighted spectators, was pushed up to within ten feet of my window panes. Owing to the great height of the surrounding buildings, and my chambers being on the second floor, the interval between this wall and mine not a little resembled a huge square cistern.\n",
+          "document_id": 1453531
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where do they escape to?",
+              "id": 921020,
+              "answers": [
+                {
+                  "answer_id": 814055,
+                  "document_id": 1453552,
+                  "question_id": 921020,
+                  "text": "the mountains",
+                  "answer_start": 266,
+                  "answer_end": 279,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "But Toby and I had our own game to play, and we availed ourselves of the confusion which always reigns among a ship's company preparatory to going ashore, to confer together and complete our arrangements. As our object was to effect as rapid a flight as possible to the mountains, we determined not to encumber ourselves with any superfluous apparel; and accordingly, while the rest were rigging themselves out with some idea of making a display, we were content to put on new stout duck trousers, serviceable pumps, and heavy Havre-frocks, which with a Payta hat completed our equipment.\n",
+          "document_id": 1453552
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Why does he decide to desert the ship?",
+              "id": 921001,
+              "answers": [
+                {
+                  "answer_id": 813258,
+                  "document_id": 1453533,
+                  "question_id": 921001,
+                  "text": "contravention of the agreement",
+                  "answer_start": 134,
+                  "answer_end": 164,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Now, this most unforeseen determination on the part of my captain to measure the arctic circle was nothing more nor less than a tacit contravention of the agreement between us. That agreement needs not to be detailed. And having shipped but for a single cruise, I had embarked aboard his craft as one might put foot in stirrup for a day's following of the hounds. And here, Heaven help me, he was going to carry me off to the Pole! And on such a vile errand too! For there was something degrading in it. Your true whaleman glories in keeping his harpoon unspotted by blood of aught but Cachalot. By my halidome, it touched the knighthood of a tar. Sperm and spermaceti! It was unendurable. \"Captain,\" said I, touching my sombrero to him as I stood at the wheel one day, \"It's very hard to carry me off this way to purgatory. I shipped to go elsewhere.\"\n",
+          "document_id": 1453533
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is his companion from?",
+              "id": 921002,
+              "answers": [
+                {
+                  "answer_id": 813293,
+                  "document_id": 1453534,
+                  "question_id": 921002,
+                  "text": "the isle of Skye, one of the constellated Hebrides",
+                  "answer_start": 17,
+                  "answer_end": 67,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Jarl hailed from the isle of Skye, one of the constellated Hebrides. Hence, they often called him the Skyeman. And though he was far from being piratical of soul, he was yet an old Norseman to behold. His hands were brawny as the paws of a bear; his voice hoarse as a storm roaring round the old peak of Mull; and his long yellow hair waved round his head like a sunset. My life for it, Jarl, thy ancestors were Vikings, who many a time sailed over the salt German sea and the Baltic; who wedded their Brynhildas in Jutland; and are now quaffing mead in the halls of Valhalla, and beating time with their cans to the hymns of the Scalds. Ah! how the old Sagas run through me!\n",
+          "document_id": 1453534
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who does he share a bed with?",
+              "id": 921008,
+              "answers": [
+                {
+                  "answer_id": 813826,
+                  "document_id": 1453540,
+                  "question_id": 921008,
+                  "text": "Queequeg",
+                  "answer_start": 49,
+                  "answer_end": 57,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Upon waking next morning about daylight, I found Queequeg's arm thrown over me in the most loving and affectionate manner. You had almost thought I had been his wife. The counterpane was of patchwork, full of odd little particoloured squares and triangles; and this arm of his tattooed all over with an interminable Cretan labyrinth of a figure, no two parts of which were of one precise shade�owing I suppose to his keeping his arm at sea unmethodically in sun and shade, his shirt sleeves irregularly rolled up at various times�this same arm of his, I say, looked for all the world like a strip of that same patchwork quilt. Indeed, partly lying on it as the arm did when I first awoke, I could hardly tell it from the quilt, they so blended their hues together; and it was only by the sense of weight and pressure that I could tell that Queequeg was hugging me.\n",
+          "document_id": 1453540
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is he called by the sailors?",
+              "id": 921015,
+              "answers": [
+                {
+                  "answer_id": 813993,
+                  "document_id": 1453547,
+                  "question_id": 921015,
+                  "text": "Buttons",
+                  "answer_start": 184,
+                  "answer_end": 191,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\"Worse yet. Who had the baptizing of ye? Why didn't they call you Jack, or Jill, or something short and handy. But I'll baptize you over again. D'ye hear, sir, henceforth your name is Buttons. And now do you go, Buttons, and clean out that pig-pen in the long-boat; it has not been cleaned out since last voyage. And bear a hand about it, d'ye hear; there's them pigs there waiting to be put in; come, be off about it, now.\"\n",
+          "document_id": 1453547
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which church did he go to on Sunday?",
+              "id": 920996,
+              "answers": [
+                {
+                  "answer_id": 813092,
+                  "document_id": 1453528,
+                  "question_id": 920996,
+                  "text": "Trinity Church",
+                  "answer_start": 44,
+                  "answer_end": 58,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Now, one Sunday morning I happened to go to Trinity Church, to hear a celebrated preacher, and finding myself rather early on the ground, I thought I would walk around to my chambers for a while. Luckily I had my key with me; but upon applying it to the lock, I found it resisted by something inserted from the inside. Quite surprised, I called out; when to my consternation a key was turned from within; and thrusting his lean visage at me, and holding the door ajar, the apparition of Bartleby appeared, in his shirt sleeves, and otherwise in a strangely tattered dishabille, saying quietly that he was sorry, but he was deeply engaged just then, and�preferred not admitting me at present. In a brief word or two, he moreover added, that perhaps I had better walk round the block two or three times, and by that time he would probably have concluded his affairs.\n",
+          "document_id": 1453528
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What afflicts him?",
+              "id": 921021,
+              "answers": [
+                {
+                  "answer_id": 814058,
+                  "document_id": 1453553,
+                  "question_id": 921021,
+                  "text": "the mysterious disease",
+                  "answer_start": 87,
+                  "answer_end": 109,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "But my chief source of anxiety, and that which poisoned every temporary enjoyment, was the mysterious disease in my leg, which still remained unabated. All the herbal applications of Tinor, united with the severer discipline of the old leech, and the affectionate nursing of Kory-Kory, had failed to relieve me. I was almost a cripple, and the pain I endured at intervals was agonizing. The unaccountable malady showed no signs of amendment: on the contrary, its violence increased day by day, and threatened the most fatal results, unless some powerful means were employed to counteract it. It seemed as if I were destined to sink under this grievous affliction, or at least that it would hinder me from availing myself of any opportunity of escaping from the valley.\n",
+          "document_id": 1453553
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is his companion?",
+              "id": 921026,
+              "answers": [
+                {
+                  "answer_id": 813998,
+                  "document_id": 1453558,
+                  "question_id": 921026,
+                  "text": "Jack Chase",
+                  "answer_start": 23,
+                  "answer_end": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "First and foremost was Jack Chase, our noble First Captain of the Top. He was a Briton, and a true-blue; tall and well-knit, with a clear open eye, a fine broad brow, and an abounding nut-brown beard. No man ever had a better heart or a bolder. He was loved by the seamen and admired by the officers; and even when the Captain spoke to him, it was with a slight air of respect. Jack was a frank and charming man. No one could be better company in forecastle or saloon; no man told such stories, sang such songs, or with greater alacrity sprang to his duty. Indeed, there was only one thing wanting about him; and that was a finger of his left hand, which finger he had lost at the great battle of Navarino.\n",
+          "document_id": 1453558
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What does he want to pawn?",
+              "id": 921014,
+              "answers": [
+                {
+                  "answer_id": 813992,
+                  "document_id": 1453671,
+                  "question_id": 921014,
+                  "text": "gun",
+                  "answer_start": 538,
+                  "answer_end": 541,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "\"We don't buy any thing here,\" said he, suddenly looking very indifferent, \"this is a place where people pawn things.\" Pawn being a word I had never heard before, I asked him what it meant; when he replied, that when people wanted any money, they came to him with their fowling-pieces, and got one third its value, and then left the fowling-piece there, until they were able to pay back the money. What a benevolent little old man, this must be, thought I, and how very obliging. \"And pray,\" said I, \"how much will you let me have for my gun, by way of a pawn?\" \"Well, I suppose it's worth six dollars, and seeing you're a boy, I'll let you have three dollars upon it\"",
+          "document_id": 1453671
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Why is he called to the mast?",
+              "id": 921028,
+              "answers": [
+                {
+                  "answer_id": 814000,
+                  "document_id": 1453674,
+                  "question_id": 921028,
+                  "text": "Captain wants ye at the mast,",
+                  "answer_start": 478,
+                  "answer_end": 507,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "At the time I was on the gun-deck below, and did not know of these proceedings; but a moment after, I heard the boatswain's mates bawling my name at all the hatch-ways, and along all three decks. It was the first time I had ever heard it so sent through the furthest recesses of the ship, and well knowing what this generally betokened to other seamen, my heart jumped to my throat, and I hurriedly asked Flute, the boatswain's-mate at the forehatchway, what was wanted of me. \"Captain wants ye at the mast,\" he replied. \"Going to flog ye, I guess.\" \"What for?\" \"My eyes! you've been chalking your face, hain't ye?\" \"What am I wanted for?\" I repeated.",
+          "document_id": 1453674
+        }
+      ]
+    }
+  ]
+}
